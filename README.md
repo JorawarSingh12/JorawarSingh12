@@ -41,13 +41,6 @@
 </a>
 </p>
 
-### Week Statistics
-
-<p align="center">
-<a href = "https://github.com/JORAWARSINGHSAINI">
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JORAWARSINGHSAINI&theme=radical">
-</a>
-</p>
 
 
 
