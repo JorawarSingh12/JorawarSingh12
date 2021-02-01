@@ -2,9 +2,9 @@
 
 
 - I'm  a Prefinal year student in Netaji Subhas University of Technology, New Delhi. 
-- 🔭 Currently working on some Open Source Projects
-- 🌱 Currently learning Computer Vision and Deep Leaning.
-- 👯 Looking to work on good Open Source Projects.
+- 🔭 Currently working on 'The Education App' and 'Flash Chat', open source projects.
+- 🌱 Learning Computer Vision and Deep Leaning.
+- 👯 Looking to work on open source projects.
 - 📫 Feel Free to reach me: jorawarsingh12@gmail.com
 
 ### Worked with
