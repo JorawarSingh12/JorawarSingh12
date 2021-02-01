@@ -3,10 +3,11 @@
 
 - I'm  a Prefinal year student in Netaji Subhas University of Technology, New Delhi. 
 - 🔭 Currently working on some Open Source Projects
-- 🌱 I’m currently learning Computer Vision and Machine Leaning.
+- 🌱 Currently learning Computer Vision and Deep Leaning.
 - 👯 Looking to work on good Open Source Projects.
 - 📫 Feel Free to reach me: jorawarsingh12@gmail.com
 
+### Worked with
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java"></code>
