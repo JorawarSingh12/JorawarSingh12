@@ -1,13 +1,15 @@
-### Hi there 👋  My name is Jorawar Singh.
+<img align="right" alt="Coder GIF" height=230 width=350 src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" />
+
+# Hi there! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>  
+
+## My name is Jorawar Singh <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=40 height= 30>
+- Computer Science Undergrad  at NSIT
+- Learning DS and Algorithms 
+- Contact : [![Gmail Badge](https://img.shields.io/badge/-@jorawarsingh12-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:jorawarsingh12@gmail.com)](mailto:jorawarsingh12@gmail.com)
 
 
-- I'm  a Prefinal year student in Netaji Subhas University of Technology, New Delhi. 
-- 🔭 Currently working on 'The Education App' and 'Flash Chat', open source projects.
-- 🌱 Learning Computer Vision and Deep Leaning.
-- 👯 Looking to work on open source projects.
-- 📫 Feel Free to reach me: jorawarsingh12@gmail.com
 
-### Worked with
+## Worked with
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java"></code>
@@ -25,7 +27,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" title="Flutter"></code>
 
 
-### Github Status Card
+## Github Status Card
 
 <p align="center">
   <a href = "https://github.com/JORAWARSINGHSAINI">
@@ -33,13 +35,17 @@
   </a>
  </p>
  
-### Top Languages Used
+## Top Languages Used
 
 <p align="center">
 <a href = "https://github.com/JORAWARSINGHSAINI">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=JORAWARSINGHSAINI&layout=compact&theme=radical&card_width=400">
+<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=JORAWARSINGHSAINI&layout=compact&theme=radical&card_width=430">
 </a>
 </p>
+
+
+
+
 
 
 
