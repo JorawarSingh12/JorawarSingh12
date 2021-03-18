@@ -2,9 +2,8 @@
 
 ## My name is Jorawar Singh <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=40 height= 30>
 - NSIT CSE'22
-- Web Developmer 
+- Web Developer - MERN Stack 
 - Learning Data Structure $ Algorithms
-- Looking for Open Source Projects
 - Contact : [![Gmail Badge](https://img.shields.io/badge/-@jorawarsingh12-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:jorawarsingh12@gmail.com)](mailto:jorawarsingh12@gmail.com)
 
 
