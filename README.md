@@ -1,6 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>  
 
-## My name is Jorawar Singh <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=40 height= 30>
+## My name is Jorawar Singh.
 - NSIT CSE'22
 - Web Developer - MERN Stack 
 - Learning Data Structure $ Algorithms
