@@ -4,7 +4,7 @@
 - NSIT CSE'22
 - Web Developer - MERN Stack 
 - Learning Data Structure $ Algorithms
-- Contact : [![Gmail Badge](https://img.shields.io/badge/-@jorawarsingh12-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:jorawarsingh12@gmail.com)](mailto:jorawarsingh12@gmail.com)
+- Contact : [![Gmail Badge](https://img.shields.io/badge/-@jorawarsingh-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:jorawarsingh12@gmail.com)](mailto:jorawarsingh12@gmail.com)
 
 
 
